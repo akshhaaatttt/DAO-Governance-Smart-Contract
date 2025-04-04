@@ -12,7 +12,7 @@ Built on the Stellar blockchain using Soroban SDK, the contract creates a framew
 
 
 ## Contract Address:
-CB6ZMO4G44CSKBMSE5CQHQUFQKWGOZCAXVCG2MB2GKQK7SKJCKLTOLSH
+CCSRPPOI5QKGKX4MIDJGUDGHEXY7VXWFSXDFC454QZCK7NQ4LGMXI4W5
 ![alt.text](image.png)
 
 ## 🚀 Key Features
