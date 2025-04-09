@@ -15,10 +15,6 @@ Built on the Stellar blockchain using Soroban SDK, the contract creates a framew
 <<<<<<< HEAD
 CBWMMKKCMBG6NNWHUQWTNQQBEQVLNH7FA5TBZOLREH7GQ26XUTDVS3CJ
 ![alt.text](contract_png.png)
-=======
-CCSRPPOI5QKGKX4MIDJGUDGHEXY7VXWFSXDFC454QZCK7NQ4LGMXI4W5
-![alt.text](img2.png)
->>>>>>> e3bd040295cd6aa20c3c2271e91ec6a8e2bb881d
 
 ## 🚀 Key Features
 
